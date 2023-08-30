@@ -1,0 +1,3 @@
+{   "cities": ["Kemerovo", "Yarovoye"],
+    "days": 3,
+    "freq": 60}
